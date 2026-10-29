@@ -1,0 +1,6 @@
+{
+  "name": "CaffèMetrics - Global Coffee Tracker & Benchmark",
+  "description": "Log daily coffee intake, roasters, barista craft, and shop aesthetics with photo uploads, timestamps, multi-factor scoring, and worldwide community benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
